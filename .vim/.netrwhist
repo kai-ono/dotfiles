@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/anyplus_platform/frontend/developer/vue/src/components'
+let g:netrw_dirhist_2='/home/anyplus_platform/frontend/developer/vue/src/components/common'
+let g:netrw_dirhist_3='/home/anyplus_platform/frontend/portal/jssdk2'
+let g:netrw_dirhist_4='/home/ubuntu/.vim'
+let g:netrw_dirhist_5='/home/ubuntu/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_6='/home/ubuntu/.vim'
