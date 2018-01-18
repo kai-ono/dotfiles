@@ -19,7 +19,7 @@ git rm --cached ~/dotfiles/.vim -r
 ```
 
 ## 使用しているシンタックス
-* http://mask.hatenadiary.com/entry/2015/06/03/153911
+* twig: http://mask.hatenadiary.com/entry/2015/06/03/153911
 
 ## 参考
 * https://qiita.com/b4b4r07/items/b70178e021bef12cd4a2
