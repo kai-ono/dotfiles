@@ -14,6 +14,7 @@ git rm --cached ~/dotfiles/.vim -r
 ```
 
 ## Neobundle
+vim上で実行
 ```vim
 :NeoBundleInstall
 ```
