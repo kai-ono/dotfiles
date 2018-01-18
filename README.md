@@ -18,7 +18,7 @@ git rm --cached ~/dotfiles/.vim -r
 :NeoBundleInstall
 ```
 
-## シンタックス
+## 使用しているシンタックス
 * http://mask.hatenadiary.com/entry/2015/06/03/153911
 
 ## 参考
