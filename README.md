@@ -13,8 +13,13 @@ git submodule add -f https://github.com/Shougo/neobundle.vim ~/dotfiles/.vim/bun
 git rm --cached ~/dotfiles/.vim -r
 ```
 
-## シンタックス
-* http://mask.hatenadiary.com/entry/2015/06/03/153911
+## Neobundle
+```vim
+:NeoBundleInstall
+```
+
+## 使用しているシンタックス
+* twig: http://mask.hatenadiary.com/entry/2015/06/03/153911
 
 ## 参考
 * https://qiita.com/b4b4r07/items/b70178e021bef12cd4a2
