@@ -9,8 +9,8 @@ git submodule add -f https://github.com/Shougo/neobundle.vim ~/dotfiles/.vim/bun
 キャッシュが残っている場合
 
 ```bash
-'~/dotfiles/.vim/bundle/neobundle.vim'  already exists in the index
-git rm --cached .vim -r
+'~/dotfiles/.vim/bundle/neobundle.vim' already exists in the index
+git rm --cached ~/dotfiles/.vim -r
 ```
 
 ## シンタックス
