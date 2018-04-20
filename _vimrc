@@ -26,3 +26,6 @@ autocmd BufNewFile,BufRead *.{html,htm,vue*} set filetype=html
 autocmd BufNewFile,BufRead *.twig set filetype=htmljinja
 
 set expandtab
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
